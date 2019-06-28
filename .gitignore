@@ -51,7 +51,7 @@ google-services.json
 # Version control
 vcs.xml
 
-# lint
+# lint_mix
 lint/intermediates/
 lint/generated/
 lint/outputs/
